@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-firebse-app": {
+      "hosting": {
+        "angular-firebase": [
+          "angular-firebse-app"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-firebse-app"
+  }
+}
